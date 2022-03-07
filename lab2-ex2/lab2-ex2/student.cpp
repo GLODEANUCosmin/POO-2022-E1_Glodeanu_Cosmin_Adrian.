@@ -6,13 +6,13 @@ using namespace std;
 void student::init()
 {
 	math = 0;
-	strcpy(name,"\0");
+	strcpy_s(name,"\0");
 	eng = 0;
 	his = 0;
 }
 void student::setname(char *s)
 {
-	strcpy(name, s);
+	strcpy_s(name, s);
 	cout << "the name of the student is: " << name << endl;
 	
 }
