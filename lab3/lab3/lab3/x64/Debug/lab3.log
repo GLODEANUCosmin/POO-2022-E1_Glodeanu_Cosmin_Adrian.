@@ -1,0 +1,23 @@
+﻿  lab3.cpp
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(72,16): error C2664: 'char *strcat(char *,const char *)': cannot convert argument 1 from 'char' to 'char *'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(72,10): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): message : see declaration of 'strcat'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(73,16): error C2664: 'char *strcpy(char *,const char *)': cannot convert argument 2 from 'char' to 'const char *'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(73,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): message : see declaration of 'strcpy'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(54,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(58,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(60,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(64,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Math.cpp
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(72,16): error C2664: 'char *strcat(char *,const char *)': cannot convert argument 1 from 'char' to 'char *'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(72,10): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): message : see declaration of 'strcat'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(73,16): error C2664: 'char *strcpy(char *,const char *)': cannot convert argument 2 from 'char' to 'const char *'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(73,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): message : see declaration of 'strcpy'
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(54,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(58,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(60,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cosmin\source\repos\POO-2022-E1_Glodeanu_Cosmin_Adrian\lab3\lab3\lab3\Math.cpp(64,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
